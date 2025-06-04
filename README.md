@@ -53,7 +53,7 @@ The project demonstrates how to filter and analyze this data by continent, regio
 ```
 📦global-country-analysis
  ┣ 📜 Capstone.ipynb
- ┣ 📜 dataset.csv
+ ┣ 📜 Countries.csv
  ┗ 📜 README.md
 ```
 
